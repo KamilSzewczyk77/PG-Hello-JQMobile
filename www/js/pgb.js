@@ -18,3 +18,11 @@ function deviceInfo() {
 
 	document.getElementById("deviceDetails").innerHTML = info;	
 }
+
+function deviceInfo2() {
+
+	info =  'Kamil Sz '    '<br>';
+			
+
+	document.getElementById("deviceHello").innerHTML = info;	
+}
